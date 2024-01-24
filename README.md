@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
+I'm Sharusan - Young Innotavie 
 
-<!--
-**Sharusan17/Sharusan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📦 ToolBox
 
-Here are some ideas to get you started:
+FrontEnd Developer: React TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Version Control: Git
+
+Backend Developer: Node.js Django Firebase
+
+Programming Language: Python Java C#
+
+Others: HTML CSS JS
+
+Always Open To Collab
+
+Check Out My Projects Below
+
+Contact
+To connect with me reach my LinkedIn
