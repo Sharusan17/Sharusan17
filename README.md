@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sharusan) 
 
-<p>🔭 I’m currently working on <strong>MeetMyCar</strong><br></p>
+<p>🔭 Join on me on my various projects such as <strong>MeetMyCar</strong><br></p>
 
 
 
